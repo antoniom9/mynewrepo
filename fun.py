@@ -1,3 +1,3 @@
 def hello(msg):
-  print("Hello world")
+  print(f"Hello {msg}")
  
